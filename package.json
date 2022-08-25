@@ -1,7 +1,10 @@
 {
   "name": "next-ts-template",
+  "description": "A TypeScript launcher for Next.js that includes tools for your projects",
   "version": "0.1.0",
+  "author": "Guilherme Ribeiro <augusto.gui.2208@gmail.com>",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
