@@ -12,27 +12,26 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## Sobre o Projeto
-
-### Construido com
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Styled-Components](https://styled-components.com/)
-* [Jest](https://jestjs.io/)
-* [Testing Library](https://testing-library.com/)
-
+## Construido com
+- ⚡ Next.js 12
+- ⚛️ React 18
+- 👑 TypeScript
+- 🔎 ESLint - Eslint mostra e corrige problemas no código
+- 🖌 Prettier - Prettier da estilo a seu código
+- 🔨 Jest - Jest vai testar seus códigos
+- 🐕 Husky - For running scripts before committing
 
 <!-- GETTING STARTED -->
 ## Como usar
 
 Para poder rodar o programa sem problemas, vou indicar softwares que você precisa ter instalado em sua máquina 
 
-### Pré-requisitos
+## Pré-requisitos
 
 - [VsCode](https://code.visualstudio.com/download)
 - [Node](https://nodejs.org/en/download/)
 
-### Instalação
+## Instalação
 1. Clonar o  repositório
    ```sh
    git clone https://github.com/Guilherme-Santos08/template-nextjs-typescript
