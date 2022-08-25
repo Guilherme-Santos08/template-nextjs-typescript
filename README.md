@@ -1,34 +1,69 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<div id="top"></div>
+<!--
 
-First, run the development server:
+<!-- PROJECT LOGO -->
+<br />
+<div align="">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+</a>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+  <h1 align="center">Template NextJS Typescript</h3>
+</div>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- ABOUT THE PROJECT -->
+## Sobre o Projeto
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### Construido com
+* [Next.js](https://nextjs.org/)
+* [React.js](https://reactjs.org/)
+* [Styled-Components](https://styled-components.com/)
+* [Jest](https://jestjs.io/)
+* [Testing Library](https://testing-library.com/)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<!-- GETTING STARTED -->
+## Como usar
 
-## Learn More
+Para poder rodar o programa sem problemas, vou indicar softwares que você precisa ter instalado em sua máquina 
 
-To learn more about Next.js, take a look at the following resources:
+### Pré-requisitos
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [VsCode](https://code.visualstudio.com/download)
+- [Node](https://nodejs.org/en/download/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Instalação
+1. Clonar o  repositório
+   ```sh
+   git clone https://github.com/Guilherme-Santos08/template-nextjs-typescript
+   ```
+2. Instalar dependências
+   ```sh
+   npm install
+   ou
+   yarn
+   ```
 
-## Deploy on Vercel
+3. Starta projeto
+   ```sh
+   npm run dev
+   ou
+   yarn dev
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<!-- LICENSE -->
+<!-- ## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">Voltar ao topo</a>)</p>
+-->
+
+
+<!-- CONTACT -->
+## Contato
+
+Guilherme Ribeiro [linkedin](https://www.linkedin.com/in/guilherme-ribeiro08/) - augusto.gui.2208@gmail.com
+  
+  
+<!-- ACKNOWLEDGMENTS -->
