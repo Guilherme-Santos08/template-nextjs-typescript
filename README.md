@@ -53,6 +53,7 @@
 - `dev`: Aplicação vai rodar em modo desenvolvedor em `http://localhost:3000`
 - `build`: Gerar uma versão de produção
 - `test`: Roda todos seus test feito em Jest
+- `commit`: vai te abrir oções padronizadas de commit [commitizen](https://github.com/commitizen/cz-cli)
 
 <!-- CONTACT -->
 ## Contato
