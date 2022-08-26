@@ -19,50 +19,49 @@
 - 🔎 ESLint - Eslint mostra e corrige problemas no código
 - 🖌 Prettier - Prettier da estilo a seu código
 - 🔨 Jest - Jest vai testar seus códigos
-- 🐕 Husky - For running scripts before committing
+- 🐕 Husky/commitlint/commitizen - Todos para manter seus commits padronizados
 
 <!-- GETTING STARTED -->
-## Como usar
 
-Para poder rodar o programa sem problemas, vou indicar softwares que você precisa ter instalado em sua máquina 
+## Documentação
 
-## Pré-requisitos
-
+### Requisitos
 - [VsCode](https://code.visualstudio.com/download)
 - [Node](https://nodejs.org/en/download/)
 
-## Instalação
-1. Clonar o  repositório
-   ```sh
-   git clone https://github.com/Guilherme-Santos08/template-nextjs-typescript
-   ```
-2. Instalar dependências
-   ```sh
-   npm install
-   ou
-   yarn
-   ```
+### Estrutura
+- [`public`](./public) — Imagens, robots.txt e favicon vão aqui dentro.<br>
+- [`src`](./src) — Sua aplicação vai aqui dentro, como: components: pages, styles....
+- [`.husky`](.husky) — Configuração do husk.<br>
 
-3. Starta projeto
+### Instalação
+1. Instalar template
    ```sh
-   npm run dev
-   ou
+   ❯ yarn create next-app -e https://github.com/Guilherme-Santos08/template-nextjs-typescript
+   # ou
+   ❯ npx create-next-app -e https://github.com/Guilherme-Santos08/template-nextjs-typescript
+   ```
+2. Starta projeto
+   ```sh
    yarn dev
+   # ou
+   npm run dev
    ```
+   
+  ### Commands
 
-<!-- LICENSE -->
-<!-- ## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">Voltar ao topo</a>)</p>
--->
-
+- `dev`: Aplicação vai rodar em modo desenvolvedor em `http://localhost:3000`
+- `build`: Gerar uma versão de produção
+- `test`: Roda todos seus test feito em Jest
 
 <!-- CONTACT -->
 ## Contato
 
 Guilherme Ribeiro [linkedin](https://www.linkedin.com/in/guilherme-ribeiro08/) - augusto.gui.2208@gmail.com
+
+<!-- LICENSE -->
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more information.
   
   
 <!-- ACKNOWLEDGMENTS -->
