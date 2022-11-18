@@ -39,7 +39,7 @@
     "babel-jest": "29.0.2",
     "commitizen": "4.2.5",
     "cz-conventional-changelog": "3.3.0",
-    "eslint": "8.23.0",
+    "eslint": "8.28.0",
     "eslint-config-next": "13.0.1",
     "eslint-config-prettier": "8.5.0",
     "eslint-import-resolver-typescript": "3.5.1",
