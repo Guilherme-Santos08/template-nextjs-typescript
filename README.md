@@ -81,9 +81,10 @@ augusto.gui.2208@gmail.com
 
 ## Créditos
 
-Esse Readme foi baseado no repositório
+- Esse Readme foi baseado no repositório
 [typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter)
 
+- [Sobre o Commitlint, Husky, Commitizen](https://dev.to/vinicius_rodrigues/padronize-seus-commits-com-commitlint-husky-commitzen-2o6h)
 <!-- LICENSE -->
 
 ## License
