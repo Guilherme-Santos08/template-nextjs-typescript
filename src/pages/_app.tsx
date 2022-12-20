@@ -1,24 +1,6 @@
-import Head from 'next/head'
+import '../styles/globals.css'
 import type { AppProps } from 'next/app'
-import { ThemeProvider } from 'styled-components'
 
-import { GlobalStyles } from '../styles/GlobalStyles'
-import { theme } from '../styles/theme'
-
-function MyApp({ Component, pageProps }: AppProps) {
-  return (
-    <>
-      <Head>
-        <title>NextJS</title>
-
-        <meta name='description' content='NextJS' />
-      </Head>
-      <ThemeProvider theme={theme}>
-        <GlobalStyles />
-        <Component {...pageProps} />
-      </ThemeProvider>
-    </>
-  )
+export default function App({ Component, pageProps }: AppProps) {
+  return <Component {...pageProps} />
 }
-
-export default MyApp

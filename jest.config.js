@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-var-requires */
 const nextJest = require('next/jest')
 
 const createJestConfig = nextJest({
@@ -15,7 +14,7 @@ module.exports = createJestConfig({
     '\\.(scss|css|sass)$': 'identity-obj-proxy',
   },
 
-  collectCoverage: true,
+  collectCoverage: false,
   collectCoverageFrom: [
     'src/**/*.tsx',
     '!src/**/*.spec.tsx',
