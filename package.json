@@ -28,7 +28,7 @@
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",
-    "@next/eslint-plugin-next": "^13.0.7",
+    "@next/eslint-plugin-next": "^13.1.1",
     "@rocketseat/eslint-config": "^1.1.1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
