@@ -26,7 +26,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.3.0",
+    "@commitlint/cli": "^17.4.2",
     "@commitlint/config-conventional": "^17.3.0",
     "@next/eslint-plugin-next": "^13.1.1",
     "@rocketseat/eslint-config": "^1.1.1",
